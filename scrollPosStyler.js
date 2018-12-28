@@ -187,3 +187,4 @@ var ScrollPosStyler = (function(document, window) {
 
   return pub;
 })(document, window);
+module.exports = ScrollPosStyler;
